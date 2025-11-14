@@ -1,4 +1,4 @@
-👋 Hi, I'm Dingan
+👋 Hi, I'm Dimal Thomas
 Full-Stack Developer (3+ Years) | Technical Mentor & Trainer (2+ Years) | MERN & Python Full-Stack Specialist
 
 I'm a passionate full-stack engineer and mentor with strong experience in building scalable applications using MERN, React + Django, and modern cloud technologies.
