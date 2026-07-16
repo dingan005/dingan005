@@ -135,7 +135,7 @@ My training focuses on:
 
 💼 **LinkedIn:** https://linkedin.com/in/dimal-thomas-955183197
 
-🌐 **GitHub:** https://github.com/dimalthomas
+🌐 **GitHub:** https://github.com/dingan005
 
 ---
 
