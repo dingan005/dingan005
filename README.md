@@ -3,7 +3,7 @@
 ### Software Engineer | Full-Stack Architect | AI, Cloud & DevOps | MERN • Next.js • Django
 
 🎓 M.Tech (Data Science) Student  
-💻 Full-Stack Developer with 5+ Years of Experience  
+💻 Full-Stack Developer with 6+ Years of Experience  
 ☁️ Cloud & DevOps Enthusiast  
 👨‍🏫 Technical Trainer & Industry Mentor  
 🚀 Passionate About Building Scalable Applications & Mentoring Future Developers
@@ -12,13 +12,13 @@
 
 ## 🚀 About Me
 
-I am a Full-Stack Software Engineer and Technical Trainer with 5+ years of experience in designing, developing, deploying, and mentoring industry-ready software solutions.
+I am a Full-Stack Software Engineer and Technical Trainer with 6+ years of experience in designing, developing, deploying, and mentoring industry-ready software solutions.
 
 My expertise spans modern web development, cloud computing, DevOps practices, and AI-assisted software engineering. I enjoy architecting scalable systems, solving real-world problems, and helping developers grow through practical, project-based learning.
 
 ### Highlights
 
-- 💼 5+ Years of Software Development Experience
+- 💼 6+ Years of Software Development Experience
 - 🎓 M.Tech (Data Science) Student
 - 🏗️ Full-Stack Architect
 - 🤖 AI-Assisted Development Enthusiast
@@ -173,7 +173,7 @@ My training approach focuses on:
 
 - Led Full-Stack, AI, Cloud & DevOps training programs.
 - Designed industry-oriented curricula.
-- Mentored 200+ students and professionals.
+- Mentored 300+ students and professionals.
 - Conducted technical interviews and code reviews.
 - Managed technical teams and academic operations.
 - Delivered workshops and technical webinars.
